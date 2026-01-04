@@ -1,16 +1,27 @@
-# 📉 Telco Customer Churn Prediction Dashboard
+# Customer Churn Prediction Dashboard
 
 A complete data science project to predict customer churn using a machine learning model trained in Google Colab, with results visualized in an interactive Power BI dashboard.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project identifies customers likely to churn from a telecom service using historical customer data. A machine learning model is trained to predict churn probabilities, and the output is used to build a professional, user-friendly Power BI dashboard for visual analysis and stakeholder decision-making.
 
 ---
+## Why this matters in industry
 
-## 🛠️ Tools & Technologies
+Customer churn directly impacts revenue and growth.
+
+Combines ML modeling with business-focused visualization.
+
+Power BI integration reflects real enterprise analytics workflows.
+
+Demonstrates ability to translate ML outputs into actionable insights.
+
+Highly relevant to data analyst and applied ML roles.
+
+## Tools & Technologies
 
 - **Python (Colab)**: Model training and predictions using scikit-learn
 - **Pandas & NumPy**: Data cleaning and preprocessing
@@ -20,7 +31,7 @@ This project identifies customers likely to churn from a telecom service using h
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 | File / Folder              | Description |
 |---------------------------|-------------|
@@ -34,7 +45,7 @@ This project identifies customers likely to churn from a telecom service using h
 
 ---
 
-## 🧠 Model Logic
+## Model Logic
 
 - Trained using a classification algorithm (e.g., Random Forest / XGBoost)
 - Input features were preprocessed and one-hot encoded
@@ -44,7 +55,7 @@ This project identifies customers likely to churn from a telecom service using h
 
 ---
 
-## 📊 Power BI Dashboard Features
+## Power BI Dashboard Features
 
 - **Churn Distribution**: Breakdown of churned vs. non-churned customers  
 - **Customer Segmentation**: Tenure, contract type, monthly charges vs. churn  
@@ -56,7 +67,7 @@ This project identifies customers likely to churn from a telecom service using h
 
 ---
 
-## 📌 How to Use
+## How to Use
 
 1. Open the `Churn_Predictions.ipynb` notebook in Google Colab
 2. Run the pipeline to generate `churn_predictions.csv`
@@ -65,7 +76,7 @@ This project identifies customers likely to churn from a telecom service using h
 
 ---
 
-## 👤 Author
+## Author
 
 **Akhilesh Ramkumar**  
 _Data Analyst | ML Enthusiast | Dashboard Developer_
